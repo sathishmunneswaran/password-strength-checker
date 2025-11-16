@@ -15,8 +15,7 @@ Built with **Tkinter** and **Regex**, this tool helps users create strong and se
 ---
 
 ## Screenshots
-![Password Strength Checker](screenshot.png)  
-*(Add your own screenshot of the app here)*
+![Password Strength Checker](screenshot.png) 
 
 ---
 
@@ -25,3 +24,4 @@ Built with **Tkinter** and **Regex**, this tool helps users create strong and se
 2. Clone this repository:
    ```bash
    git clone https://github.com/your-username/password-strength-checker.git
+
